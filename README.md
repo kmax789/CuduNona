@@ -14,12 +14,19 @@
 
 			Credit Goes to Sadeesha Aiya Queen Alexa Developer team. This is Fully moded and edited Version of Queen Alexa.
 
-<h3>Get Your SESSION ID 👇</h3> 
+<h3>1. Fork This Repo</h3> 
+<h3>2.Get Your SESSION ID 👇</h3> 
 <h5>SESSION_ID Error Fixed ✅</h5>
 	
 <button><tr><a href="https://pair-web-public.koyeb.app/">Pair Code</a></tr></button>
 
-<h5>(config.js/SESSION_ID "past_copy_text")</h5>
+<h5>3. Paste it > (config.js/SESSION_ID "past_copy_text")</h5>
+
+<h3>4.Goto Actions > Setup a worflow ur self > Rename main.yml to deploy.yml > Then paste the workflows codes👇</h3> 
+<h5>3. Free Workflows will be automatically stopped when 6 hourse completed.</h5>
+<h5>3. When stopped goto Actions > and then re Run all Jobs </h5>
+
+<h1>Special Note ! Do not edit the codes when Workflows deployed. If u wanna edit delete ur workflow directory and edit and again create a workflow </h1>
 
 <h5>Free Workflows 👇</h5>
 
@@ -81,16 +88,7 @@ jobs:
 
 <hr>
 
-<div align="center">
-<h3>Alexa Developer Team 👤</h3>
 
-| Sadeesha 👤             | Vihanga 👤            | Nisitha 👤             | Maneth 👤             | Imalshan 👤             |                       
-|----------------------|----------------------|----------------------|----------------------|----------------------|
-| [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Maneth](https://i.ibb.co/RNmMpFM/IMG-20240918-WA0013.jpg)](https://github.com/sadiyamin/Alexa/) | [![Imalshan](http://i.ibb.co/HGMmFhY/img-1-1724244686195.webp)](https://github.com/sadiyamin/Alexa)
-
-</div>
-
-<hr>
 
 <div align="center">
     
