@@ -26,7 +26,10 @@
 <h5>3. Free Workflows will be automatically stopped when 6 hourse completed.</h5>
 <h5>3. When stopped goto Actions > and then re Run all Jobs </h5>
 
-<h1>Special Note ! Do not edit the codes when Workflows deployed. If u wanna edit delete ur workflow directory and edit and again create a workflow </h1>
+<hr>
+<h1>Special Note ! </h1>
+<h3>Do not edit the codes when Workflows deployed. If u wanna edit delete ur workflow directory and edit and again create a workflow </h3>
+</hr>
 
 <h5>Free Workflows 👇</h5>
 
@@ -77,10 +80,10 @@ jobs:
 <div align="center">
 <h3>Epzige Cudu Nona's Developer 👤</h3>
 
-| Asmodeus Epzi 👤         |                   
-|--------------------------|
-| [![Owner](https://i.ibb.co/7yNfxp6/IMG-20240601-WA0013.jpg)](https://github.com/HaCkr-EPZI-public/) |
-| <div align="center"> Owner , Editor & Developer </div> |
+| Asmodeus Epzi 👤         | | Asmodeus Epzi 👤         |                  
+|--------------------------| |--------------------------|
+| [![Owner](https://i.ibb.co/7yNfxp6/IMG-20240601-WA0013.jpg)](https://github.com/HaCkr-EPZI-public/) || [![Tester](https://i.ibb.co/)](https://github.com/UbettaBassa/) |
+| <div align="center"> Owner , Developer & Editor </div> || <div align="center"> Suppoter , Developer & Tester </div> |
 
 </div>
 
