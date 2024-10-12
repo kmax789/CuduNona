@@ -13,7 +13,7 @@
 </div>
 
 <hr>
-
+<div align="center">
 <b>CONTACT OWNER</b>
 
 [![epzi](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94759554531)
@@ -23,7 +23,7 @@
 <a href="https://chat.whatsapp.com/C4uV5P7ZvrS85lUzCoZzx7"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Group-green"  width="350"></a>
 
 <hr>
-
+</div>
 <hr>
 
 			Credit Goes to Sadeesha Aiya Queen Alexa Developer team. This is Fully moded and edited Version of Queen Alexa.
