@@ -1,5 +1,7 @@
 <div align="center">
 	<h3>👸🏻Epzige Cudu Nona👸🏻</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+	
 <img src="https://i.ibb.co/tZzBS47/image.jpg" width="300" height="300">
 </div>
 <hr>
@@ -9,6 +11,18 @@
 <div align="center">
 	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="Epzi">
 </div>
+
+<hr>
+
+<b>CONTACT OWNER</b>
+
+[![epzi](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94759554531)
+<hr>
+<hr>
+
+<a href="https://chat.whatsapp.com/C4uV5P7ZvrS85lUzCoZzx7"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Group-green"  width="350"></a>
+
+<hr>
 
 <hr>
 
