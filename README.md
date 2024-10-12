@@ -82,7 +82,7 @@ jobs:
 
 | Asmodeus Epzi 👤         || Asmodeus Epzi 👤         |                  
 |--------------------------||--------------------------|
-| [![Owner](https://i.ibb.co/7yNfxp6/IMG-20240601-WA0013.jpg)](https://github.com/HaCkr-EPZI-public/) || [![Tester](https://i.ibb.co/)](https://github.com/UbettaBassa/) |
+| [![Owner](https://i.ibb.co/7yNfxp6/IMG-20240601-WA0013.jpg)](https://github.com/HaCkr-EPZI-public/) || [![Tester](https://i.ibb.co/7yNfxp6/IMG-20240601-WA0013.jpg)](https://github.com/UbettaBassa/) |
 | <div align="center"> Owner , Developer & Editor </div> || <div align="center"> Suppoter , Developer & Tester </div> |
 
 </div>
