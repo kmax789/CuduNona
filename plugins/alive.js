@@ -31,15 +31,14 @@ let desc = `
 └────────────────
 ┌────────────────
 │ _*Cudu Nonage Github Repo eka*_
-│ Den nh palayan 
+│ https://github.com/HaCkr-EPZI-public/CuduNona 
 └────────────────
 ┌────────────────
 │ _*Apilage Group eka*_
-│ https://chat.whatsapp.com/FUYcvrXn9zm6BHbFznMSpn
+│ https://chat.whatsapp.com/C4uV5P7ZvrS85lUzCoZzx7
 └────────────────
 
 > *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ Asᴍᴏᴅᴇᴜs Eᴘᴢɪ  🧑🏻‍💻*
-> Master Piece is Alexa by Sadeesha
 `
 return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/tZzBS47/image.jpg`},caption: desc},{quoted: mek})
 
