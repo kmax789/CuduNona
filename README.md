@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/tZzBS47/image.jpg" width="300" height="300">
 </div>
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Epzige+Cudu+Nona's+Profile...;Created+by+Asmodeus+Epzi...;Epzi+Mage+Mn+Epzige+<3...;Simple+Java+Script+Bot...;Private+bot...;Masterpiece+by+Sadeesha+Aiya's+Alexa..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Epzige+Cudu+Nona's+Profile...;Created+by+Asmodeus+Epzi...;Epzi+Mage+Mn+Epzige+<3...;Simple+Java+Script+Bot...;Private+bot...;Thnks+For+Using+my+bot..."
             alt="Typing">
 
 <div align="center">
