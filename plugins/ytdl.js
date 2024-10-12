@@ -1,4 +1,4 @@
-// Alexa Whatsapp Bot....Created By Asᴍᴏᴅᴇᴜs Eᴘᴢɪ
+// Epzi Whatsapp Bot....Created By Asᴍᴏᴅᴇᴜs Eᴘᴢɪ
 // Don't Edit This Fill
 
 const {cmd , commands} = require('../command')
