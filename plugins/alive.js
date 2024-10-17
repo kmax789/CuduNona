@@ -20,25 +20,26 @@ let desc = `
 │❖ *ᴜᴘᴛɪᴍᴇ :* _${runtime(process.uptime())}_
 │❖ *ʀᴀᴍ ᴜꜱᴀɢᴇ :*  _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB_
 │❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
-│❖ *ᴏᴡɴᴇʀ :* _Asᴍᴏᴅᴇᴜs Eᴘᴢɪ_
+│❖ *ᴏᴡɴᴇʀ :* _Asᴍᴏᴅᴇᴜs KmaxXi
 └────────────────
 
 *Oyage Cudu nona Innawa patiyo👸🏻*
 
 ┌────────────────
-│ _*Epzi'ge Cudu Nona's Official Web Site*_
-│ Thama ehema ekk nh issarahata hadannm
+│ _*KmaXx'ge Cudu Nona's Official Web Site*_
+│ https://guns.lol/kmaxiter444
 └────────────────
 ┌────────────────
-│ _*Cudu Nonage Github Repo eka*_
-│ https://github.com/HaCkr-EPZI-public/CuduNona 
+│ _*Cudu Nonage Website eka*_
+   https://guns.lol/kmaxiter444
+│ 
 └────────────────
 ┌────────────────
 │ _*Apilage Group eka*_
-│ https://chat.whatsapp.com/C4uV5P7ZvrS85lUzCoZzx7
+│ https://chat.whatsapp.com/Kjolh9BcVSRHHNWv4hcbbG
 └────────────────
 
-> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ Asᴍᴏᴅᴇᴜs Eᴘᴢɪ  🧑🏻‍💻*
+> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ Asᴍᴏᴅᴇᴜs KmaXxi 🧑🏻‍💻*
 `
 return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/tZzBS47/image.jpg`},caption: desc},{quoted: mek})
 
